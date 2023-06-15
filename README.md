@@ -1,0 +1,2 @@
+I have always had a passion for programming, as I wanted to use it to become a game designer, until I found out that there were a million and one different things I could use programming for.
+I had a uncanny knack for pulling up javascript consoles on school-centered games like *Kahoot!* or *Blooket*. My teachers knew this of course, and were very annoyed that I was doing this, telling me I could have damaged a system if I didn't know what I was doing. They were also telling me to use my powers **"for the greater good."**
